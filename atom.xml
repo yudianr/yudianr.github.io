@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>雨点儿</title>
+  <icon>https://www.gravatar.com/avatar/cf61658360e0704ef83a3b5e019eb114</icon>
+  <subtitle>亲亲我的宝贝</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yudianr.github.io/"/>
+  <updated>2018-07-11T14:39:32.148Z</updated>
+  <id>https://yudianr.github.io/</id>
+  
+  <author>
+    <name>雨点儿</name>
+    <email>kobe24_lixiang@126.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hey, 雨点儿</title>
+    <link href="https://yudianr.github.io/2018/07/10/hello-yudianr-20180710/"/>
+    <id>https://yudianr.github.io/2018/07/10/hello-yudianr-20180710/</id>
+    <published>2018-07-10T13:00:00.000Z</published>
+    <updated>2018-07-11T14:39:32.148Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/assets/blogImg/01.png" alt="兴奋，激动">     </p><blockquote><p>Nothing is true, everything is permitted.万物皆虚，万事皆允。        </p></blockquote><p><em>—— 雨点儿</em><br><a id="more"></a></p><p>期待的你终于有了希望。</p><h2 id="你"><a href="#你" class="headerlink" title="你"></a><strong>你</strong></h2><p>谢谢你的来临。</p><blockquote><p>When I was a young man,<br>当我还是个年轻的小伙子<br>I had liberty, but I did not see it.<br>我拥有自由，却从未认知<br>I had time, but I did not know it.<br>我拥有时间，却毫不知情<br>And I had love, but I did not feel it.<br>而我亦拥有爱，却从未感觉到<br>Many decades would pass before I understood the meaning of all three.<br>直到数十年过去后，我才真正理解这三项的意义<br>And now, the twilight of my life, misunderstanding has past into contentment.<br>而现在，垂暮之年的我，这领悟让我感到满足<br>Love, liberty, and time: once was so disposable, are the fuels that drive me forward.<br>曾经能自由支配的爱，自由以及时间，是支持我前进的动力<br>And love, most especially, mia caro.<br>而爱，是最特别的一个， 亲爱的<br>For you, our children, our brothers and sisters.<br>为你，为我们的孩子以及为我们的兄弟姐妹们<br>And for the vast and wonderful world that gives us lives and keeps us guessing,<br>为这赐予我们生命与惊奇的广阔，精彩的世界<br>endless affection，mio Sofia,<br>至死不渝的挚爱， 我的索菲亚<br>Forever yours, Ezio Auditore<br>永远属于你的， Ezio Auditore                   </p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/01.png&quot; alt=&quot;兴奋，激动&quot;&gt;     &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nothing is true, everything is permitted.万物皆虚，万事皆允。        &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;—— 雨点儿&lt;/em&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="孩子" scheme="https://yudianr.github.io/tags/%E5%AD%A9%E5%AD%90/"/>
+    
+  </entry>
+  
+</feed>
