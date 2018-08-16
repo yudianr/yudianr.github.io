@@ -1,48 +1,39 @@
 ---
 layout: post
 title: "Hey, 雨点儿"
-date: 2018-07-10 21:00
+date: 2018-08-16 22:36
 comments: true
 tags:
 	- 孩子
-brief: "雨点儿的来临"
+brief: "生命真是个奇迹"
 reward: true
 ---
 
-![兴奋，激动](/assets/blogImg/01.png)     
-> Nothing is true, everything is permitted.万物皆虚，万事皆允。        
+> 请扶着妈妈的疼痛来，请爬着爸爸的煎熬来，请沐着惬意的春风来，请踏着我们的希望来。     
 
 *—— 雨点儿*
 <!-- more -->
 
-期待的你终于有了希望。
+亲爱的孩子，当我敲打这些文字的时候，你无法想象我有多么的激动，虽然曾经无数次幻想当知道自己即将有孩子时的画面，但今天，当想象变成现实的时候，我才知道有一种幸福是多么的无法言喻。新的生命意味着新的希望，而你就是你妈妈和我的希望，此刻的你就如同一颗希望的种子，静静得卧在你妈妈的身体里，准备茁壮成长，你可感受到你妈妈的心因幸福而激动得呯呯乱跳？
 
-## **你**
+![新的生命](/assets/blogImg/01.JPG)
 
-谢谢你的来临。
+亲爱的孩子，暂且给你取个小名叫“雨点儿”吧。因为你爸爸觉得雨点儿听起来挺小清新的，而且还有承载着希望的涵义。接下来的日子，你的妈妈，一个温柔贤惠的女子，将要承受各种孕育新生命的折磨和痛苦，当然这其中也有幸福，她会越来越累，为你的降临作最后的铺存。我希望你在妈妈肚子里乖乖惹人爱，让你的妈妈少受点疼痛。而我，将会用更多的时间好好陪伴你的妈妈和你，好好爱你们，努力为你们创造好一点的生活，为你们遮风挡雨。
 
-
-> When I was a young man,              
-> 当我还是个年轻的小伙子                
-> I had liberty, but I did not see it.                 
-> 我拥有自由，却从未认知                  
-> I had time, but I did not know it.                   
-> 我拥有时间，却毫不知情                   
-> And I had love, but I did not feel it.                   
-> 而我亦拥有爱，却从未感觉到                   
-> Many decades would pass before I understood the meaning of all three.                   
-> 直到数十年过去后，我才真正理解这三项的意义                   
-> And now, the twilight of my life, misunderstanding has past into contentment.                   
-> 而现在，垂暮之年的我，这领悟让我感到满足                   
-> Love, liberty, and time: once was so disposable, are the fuels that drive me forward.                   
-> 曾经能自由支配的爱，自由以及时间，是支持我前进的动力                   
-> And love, most especially, mia caro.                   
-> 而爱，是最特别的一个， 亲爱的                   
-> For you, our children, our brothers and sisters.                   
-> 为你，为我们的孩子以及为我们的兄弟姐妹们                   
-> And for the vast and wonderful world that gives us lives and keeps us guessing,                   
-> 为这赐予我们生命与惊奇的广阔，精彩的世界                   
-> endless affection，mio Sofia,                   
-> 至死不渝的挚爱， 我的索菲亚                   
-> Forever yours, Ezio Auditore                   
-> 永远属于你的， Ezio Auditore                   
+> 我的宝贝宝贝,给你一点甜甜              
+> 让你今夜都好眠,我的小鬼小鬼              
+> 逗逗你的眉眼,让你喜欢这世界              
+> 哇啦啦啦啦啦我的宝贝,倦的时候有个人陪              
+> 哎呀呀呀呀呀我的宝贝,要你知道你最美              
+> 我的宝贝宝贝,给你一点甜甜              
+> 让你今夜很好眠,我的小鬼小鬼              
+> 捏捏你的小脸,让你喜欢整个明天              
+> 哇啦啦啦啦啦我的宝贝,倦的时候有个人陪              
+> 哎呀呀呀呀呀我的宝贝,要你知道你最美              
+> 哇啦啦啦啦啦我的宝贝,孤单时有人把你想念              
+> 哎呀呀呀呀呀我的宝贝,要你知道你最美              
+> 哇啦啦啦啦啦yeah~woo,yeah~woo~              
+> 哇啦啦啦啦啦我的宝贝,倦的时候有个人陪              
+> 哎呀呀呀呀呀我的宝贝              
+> 要你知道你最美              
+> 要你知道你最美                               
