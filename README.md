@@ -1,6 +1,8 @@
 Welcome
 ===========
 
+qrencode -t png -o yudianr.png -s 8 https://yudianr.github.io
+
 主题使用Litten制作的[yilia](http://litten.me/2014/08/31/hexo-theme-yilia/)
 主题更新: `git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia`
 
