@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yudianr.github.io/photos/index.html</loc>
+    
+    <lastmod>2018-08-16T16:13:31.070Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yudianr.github.io/2018/08/16/hello-yudianr-20180710/</loc>
     
-    <lastmod>2018-08-16T15:22:03.420Z</lastmod>
+    <lastmod>2018-08-16T16:10:19.937Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>https://yudianr.github.io/photos/ins.json</loc>
     
     <lastmod>2018-07-10T15:14:07.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yudianr.github.io/photos/index.html</loc>
-    
-    <lastmod>2018-07-10T15:03:51.013Z</lastmod>
     
   </url>
   
