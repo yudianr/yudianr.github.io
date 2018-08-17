@@ -5,7 +5,7 @@ date: 2018-08-16 22:36
 comments: true
 tags:
 	- 孩子
-brief: "生命真是个奇迹"
+brief: "确认过眼神，你就是最乖的宝贝"
 reward: true
 ---
 
@@ -36,4 +36,6 @@ reward: true
 > 哇啦啦啦啦啦我的宝贝,倦的时候有个人陪              
 > 哎呀呀呀呀呀我的宝贝              
 > 要你知道你最美              
-> 要你知道你最美                               
+> 要你知道你最美            
+
+<div align=bottom><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=280 src="//music.163.com/outchain/player?type=0&id=2120438230&auto=1&height=260"></iframe></div>
