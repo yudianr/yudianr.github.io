@@ -116,8 +116,8 @@
         var data = res.list[j].arr;
         var liTmpl = "";
         for (var i = 0, len = data.link.length; i < len; i++) {
-          var minSrc = 'https://raw.githubusercontent.com/yudianr/yudianr.github.io/hexo/min_photos/' + data.link[i];
-          var src = 'https://raw.githubusercontent.com/yudianr/yudianr.github.io/hexo/photos/' + data.link[i];
+          var minSrc = 'https://github.com/yudianr/hexo-blog/min_photos/' + data.link[i];
+          var src = 'https://github.com/yudianr/hexo-blog/min_photos/' + data.link[i];
           var type = data.type[i];
           var target = src + (type === 'video' ? '.mp4' : '.jpg');
           src += '';
