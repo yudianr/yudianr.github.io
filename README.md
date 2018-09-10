@@ -1,7 +1,16 @@
 Welcome
 ===========
 
+hexo n "first-hospital-examination-20180908"
+
 qrencode -t png -o yudianr.png -s 8 https://yudianr.github.io
+
+图片压缩工具：
+
+sudo apt-get install imagemagick
+
+convert -quality 40 IMG_2310.JPG 07.JPG
+
 
 主题使用Litten制作的[yilia](http://litten.me/2014/08/31/hexo-theme-yilia/)
 主题更新: `git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia`
